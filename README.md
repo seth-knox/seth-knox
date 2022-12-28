@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seth-knox.
+- 👋 Hi, I’m @seth-knox. Former educator turned coder.
 - 👀 I’m interested in coding and running.
 - 🌱 I’m currently learning html, css, and mobile first responsive web design.
 - 💞️ I’m looking to collaborate on (tbd).
